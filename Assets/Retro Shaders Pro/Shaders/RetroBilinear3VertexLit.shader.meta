@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f6c9cb5866bf65f488a7ef3122a59f5f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 287937
+  packageName: Retro Shaders Pro for URP
+  packageVersion: 1.3.1
+  assetPath: Assets/Retro Shaders Pro/Shaders/RetroBilinear3VertexLit.shader
+  uploadId: 740379
